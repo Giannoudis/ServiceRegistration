@@ -1,3 +1,5 @@
+# Service Registration and Decoration in ASP.NET Core
+
 Services are the foundation of every ASP.NET Core application and are used through dependency injection. As an application grows, managing services becomes more complex and time-consuming. The following approach uses .NET Reflection to automatically register and decorate services.
 
 <p align="center">
